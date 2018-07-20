@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidCropImage</string>
+
+    <string name="btn_save">SAVE</string>
+    <string name="btn_cancel">CANCEL</string>
+</resources>

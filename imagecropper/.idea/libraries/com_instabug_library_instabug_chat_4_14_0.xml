@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.instabug.library:instabug-chat-4.14.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/instabug-chat-4.14.0.aar/31eaa5b32c9fe262d3caf61274b6dbe4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/instabug-chat-4.14.0.aar/31eaa5b32c9fe262d3caf61274b6dbe4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.instabug.library/instabug-chat/4.14.0/25dfa133c519db29155810caa279f6c677f4d08a/instabug-chat-4.14.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
